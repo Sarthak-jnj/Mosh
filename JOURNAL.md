@@ -14,3 +14,11 @@ Spent the day researching ideal parts for such a drone, took weight and performa
 ![Notebook img 2](<https://github.com/Sarthak-jnj/Mosh/blob/main/Images/WhatsApp%20Image%202026-11-18%20at%2000.23.12.jpeg>)
 
 **Total time spent : 3 hours**
+
+---
+
+# Novmber 23 : Modeled the frame in fusion 360
+
+Spent my time modelling the desired design into fusion 360, also made adequate cuts to reduce weight. I did half of this on november 18th but forgot to journal and then didn't get time due to olympiad and staff, so including that lapse in this. Also tried using the assembly feature for the first time but ended up using the normal design part because that's more precise for me right now. Also spent some time to understand Stress simulations to perform on the frame (tho i'll watch another video tailored for drones FEA specifically).
+
+**Total time spent : 1.5 hours**
