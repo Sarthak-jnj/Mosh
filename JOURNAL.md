@@ -6,7 +6,7 @@ Description : A small scale custom built drone on ESP32 architecture. Ultra ligh
 Created at: 2026-11-17
 ---
 
-# November 17 : Made a rough Design layout and reseached parts
+# 11/17/2026: Made a rough Design layout and reseached parts
 
 _timespent:3h_
 
@@ -19,7 +19,7 @@ Spent the day researching ideal parts for such a drone, took weight and performa
 
 ---
 
-# November 23 : Modeled the frame in fusion 360
+# 11/23/2026: Modeled the frame in fusion 360
 
 _timespent:1.5h_
 
@@ -31,7 +31,7 @@ Spent my time modelling the desired design into fusion 360, also made adequate c
 
 ---
 
-# November 25 : Stress tested the frame
+# 11/23/2026: Stress tested the frame
 
 _timespent:1.5h_
 
