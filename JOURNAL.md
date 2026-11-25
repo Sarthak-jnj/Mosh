@@ -31,7 +31,7 @@ Spent my time modelling the desired design into fusion 360, also made adequate c
 
 ---
 
-# 11/23/2026: Stress tested the frame
+# 11/25/2026: Stress tested the frame
 
 _Time spent: 1.5h_
 
