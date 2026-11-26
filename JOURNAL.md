@@ -41,3 +41,13 @@ Modelled the mount for FC and sensors, followed a 40 minute video to setup a Lin
 ![Simulation Screenshot](https://cdn.hackclub.com/01a216c0-53bc-79ee-8269-5ad07a24def5/Screenshot%202026-11-26%20010403.png)
 
 **Total time spent : 1.5 hours**
+
+---
+
+# 11/27/2026: Made the BOM.csv and tested some parts with a lot of research
+
+_Time spent: 3h_
+
+Started the Day by researching upon the structure of drone flight mechanics, followed by a few articles on PID loops and took a look at some PID projects in action to grash an idea. Had an IMU6500 lying around so thought of testing it with an arduino but since it had unsoldered pins, it took me a lot of brain frying after writing the code (hackatime), then i ended late night by making the BOM.csv file with all the applicable sources and parts I could think of now.
+
+![MPU6500 Test](https://cdn.hackclub.com/01a21981-94e5-7d76-8dec-67852cebe025/IMG20261127003638.jpg)
