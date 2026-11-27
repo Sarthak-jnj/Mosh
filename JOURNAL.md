@@ -51,3 +51,17 @@ _Time spent: 3h_
 Started the Day by researching upon the structure of drone flight mechanics, followed by a few articles on PID loops and took a look at some PID projects in action to grash an idea. Had an IMU6500 lying around so thought of testing it with an arduino but since it had unsoldered pins, it took me a lot of brain frying after writing the code (hackatime), then i ended late night by making the BOM.csv file with all the applicable sources and parts I could think of now.
 
 ![MPU6500 Test](https://cdn.hackclub.com/01a21981-94e5-7d76-8dec-67852cebe025/IMG20261127003638.jpg)
+
+**Total time spent : 3 hours**
+
+---
+
+# 11/28/2026: JUST BOM on this half
+
+_Time spent: 2h_
+
+Really intended to start the software but had to fix the BOM with a few things I confirmed today and god i live somewhere without a single proper e-commerce site. I spent like 3 hours just in finding sources of parts that are ready to deliver and aren't charging more for delivery than the actual product. I'm gonna pick the coding in second half of the day but I've deflated the time already because even I can't believe how it took me so long and I wasn't even building something.
+
+![BOM Tabs & Research](https://cdn.hackclub.com/01a21e59-c5bf-7937-bb6e-8759349174df/IMG20261128002019.jpg)
+
+**Total time spent : 2 hours**
